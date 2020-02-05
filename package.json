@@ -1,0 +1,19 @@
+{
+  "name": "contactmanagement",
+  "version": "1.0.0",
+  "description": "This project helps to manage personal contacts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cms"
+  ],
+  "author": "Viru",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {}
+}
